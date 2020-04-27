@@ -22,5 +22,3 @@ Alternative instructions (not tested!): https://stedolan.github.io/jq/download/
 We do not recommend using Windows for this workshop, and none of the labs have been tested with Windows. Here's a couple thoughts if that's your only option:
 * Use a Linux virtual machine and follow Linux instructions
 * Use WSL (Windows Subsystem for Linux) on Windows 10. Check the istructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10
-
-**None of these options have been tested**
