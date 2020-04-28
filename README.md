@@ -22,3 +22,10 @@ Alternative instructions (not tested!): https://stedolan.github.io/jq/download/
 We do not recommend using Windows for this workshop, and none of the labs have been tested with Windows. Here's a couple thoughts if that's your only option:
 * Use a Linux virtual machine and follow Linux instructions
 * Use WSL (Windows Subsystem for Linux) on Windows 10. Check the istructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+_None of Windows options have been tested_
+
+# Additional Resources
+You can find [slides](JSON%20parsing%20with%20jq%20%28no%20lab%20answers%29.pdf) in this repository, this is the version that doesn't have lab answers, full version will be available after the workshop.
+
+[Dataset data structure cheatsheet](dataset_structure_cheatsheet.md) - we explore the structure of the dataset in the labs, this is useful as a reference.
