@@ -27,7 +27,7 @@ Not all the events will contain all the fields.
 * vulnName
 * shellcodeName
 
-## gastopf.events.json
+## glastopf.events.json
 * time
 * pattern
 * filename
